@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medical-Education-Consultant/static/css/main.ae42ac5f.css",
+    "main.js": "/medical-Education-Consultant/static/js/main.7a2b5e06.js",
+    "index.html": "/medical-Education-Consultant/index.html",
+    "main.ae42ac5f.css.map": "/medical-Education-Consultant/static/css/main.ae42ac5f.css.map",
+    "main.7a2b5e06.js.map": "/medical-Education-Consultant/static/js/main.7a2b5e06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.7a2b5e06.js"
+  ]
+}
