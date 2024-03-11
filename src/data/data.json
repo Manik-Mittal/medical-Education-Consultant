@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Welcome to Medical Education Consultants!!",
+    "paragraph": "Welcome to Medical Education Consultants,your gateway to realizing the dream of pursuing MBBS abroad. We specialize in simplifying the complex journey of admissions and visa processes, providing personalized support for a seamless transition. Our dedicated team is committed to making your dream of studying medicine abroad. Join us at Medical Education Consultants, where your educational aspirations meet expert guidance for a successful medical career abroad."
+  },
+  "About": {
+    "paragraph": "Medical Education Consultants, located in the heart of Rajendra Nagar, is your trusted resource for seamless guidance on pursuing MBBS in Russia. Conveniently situated, our office is committed to providing personalized assistance to aspiring Indian students, facilitating every step of their journey towards a medical education abroad. Our dedicated team in Rajendra Nagar ensures comprehensive support, ensuring a smooth transition from admission processes to visa formalities. With a deep understanding of the unique challenges students may face, we strive to create a welcoming and informative environment. Visit us at our Rajendra Nagar office, where your aspirations for a medical career meet our expertise, forging a path towards a brighter future.",
+    "Why": [
+         ],
+    "Why2": [
+
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Calendars",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Diary",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Standies",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Hand Books",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Banner",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Writing Pad",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Folder",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Visiting Cards",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Phamplates",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-laptop",
+      "name": "Admissions Assistance",
+      "text": "We provide expert guidance on the admission process, helping students navigate through the requirements of foreign medical universities."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Visa Application Support",
+      "text": "Our experienced team assists in the preparation and submission of visa applications, ensuring a smooth and hassle-free process for students."
+    },
+    {
+      "icon": "fa fa-file",
+      "name": "Documentation Assistance",
+      "text": "We assist students in compiling and organizing the necessary documentation for admissions and visa applications, minimizing the stress associated with paperwork."
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Best priting place in meerut",
+      "name": "Manik"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Good quality work",
+      "name": "Lakshay"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "lorem",
+      "name": "ravi"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Good quality work",
+      "name": "seema"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "good colour visibility with vibrant contrast",
+      "name": "mohit"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "thick paper quality",
+      "name": "gauri"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "E-35, Lajpat Nagar, Sahibabad, Ghaziabad , Uttar Pradesh -201005 India ",
+    "phone": ["+91 8168072010", "  /   ","+7 (980) 090-90-25 "] ,
+    "email": "rajnish.r707@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
